@@ -15,4 +15,4 @@
 
 # Deprecate Version.... Use Latest One Given Below... 
 
-<i>**[Latest Repo](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2)**</i>
+<i>**[Latest Repo](https://github.com/Lallu-lallus/adv-auto-filter-3.0**</i>
