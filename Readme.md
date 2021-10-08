@@ -1,12 +1,12 @@
 # Adv Auto Filter Bot
 
 <p align="center">
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot/stargazers">
+  <a href="https://github.com/Lallu-lallus/adv-auto-filter-3.0/stargazers">
     <img src="https://img.shields.io/github/stars/AlbertEinsteinTG/Adv-Auto-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot/fork">
+  <a href="https://github.com/Lallu-lallus/adv-auto-filter-3.0/fork">
     <img src="https://img.shields.io/github/forks/AlbertEinsteinTG/Adv-Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
